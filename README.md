@@ -2,6 +2,7 @@
 I'm Sota, a second year computer science student at Northeastern University. I'm always interested in new projects and am currently looking for Co-op opportunities. Find more info about me on [LinkedIn](https://www.linkedin.com/in/sota-shimizu-129454348) or reach out at shimizu.s@northeastern.edu
 
 ## Current projects
+- Pocket Pantry, a mobile app that allows users to request and share small food items from their pantries!
 - LeBirthTracker, a web-app designed to see how LeBron was doing on your birthday!
 
 ## Technologies I know
